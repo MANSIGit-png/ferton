@@ -1,0 +1,21 @@
+# Операционные системы
+.DS_Store       # Для macOS
+Thumbs.db      # Для Windows
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+venv/
+env/
+
+# IDEs
+.idea/         # Для JetBrains IDEs (PyCharm, IntelliJ)
+*.sublime-workspace
+*.sublime-project
+
+# Виртуальные окружения
+*.env          # Для хранения конфиденциальных данных
+*.env.*        # Все файлы окружений
+*.log          # Файлы журналов
